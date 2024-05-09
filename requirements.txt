@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+streamlit>=1.14
+mysql-connector-python
+easyocr
+nltk
+indian-cities
+pincode
+geopy
